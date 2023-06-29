@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD Practical Week 4</string>
+    <string name="btn_follow">FOLLOW</string>
+    <string name="btn_message">MESSAGE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Group_1">Group 1</string>
+</resources>
